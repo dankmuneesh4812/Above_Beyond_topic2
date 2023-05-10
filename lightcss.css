@@ -1,0 +1,26 @@
+body {
+	font-family: Arial, sans-serif;
+    font-style: oblique;
+    text-align: justify;
+}
+
+h1,h2{
+    text-align:center
+}
+
+.light {
+	display: block;
+	width: 80px;
+	height: 80px;
+	margin: 15px auto;
+	border-radius: 50%;
+	cursor: pointer;
+}
+.light-box {
+	margin: 50px auto;
+	padding: 40px;
+    height: fit-content;
+	border: 10px solid black;
+	width: 200px;
+	text-align: center;
+}
